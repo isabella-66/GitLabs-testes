@@ -1,3 +1,3 @@
 # GitLabs
 
-Operações somar, subtrair e multiplicar.
+Operações somar, subtrair, multiplicar e dividir.
