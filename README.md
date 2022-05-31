@@ -3,4 +3,5 @@
 ## Operações 
 - somar;
 - subtrair;
-- multiplicar.
+- multiplicar;
+- dividir.
